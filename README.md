@@ -14,7 +14,7 @@ Methods of the following types are implemneted:
 1. Data:
     * articles_community.csv - Data on articles available on the platform - includes article ID; content; description; and title
     * user_item_interactions.csv - Record of user interactions with articles - entries consist of article ID and title, together with hash of the interacting user's email
-2. Recommendations_with_IBM.ipynb - Jupytier notebook containg the project code
+2. Recommendations_with_IBM.ipynb - Jupyter notebook containg the project code
 
 ## Dependencies
 This project uses Python 3.
